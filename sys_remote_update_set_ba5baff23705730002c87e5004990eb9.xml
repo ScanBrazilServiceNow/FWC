@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-04-30 14:01:40">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Knowledge Management - Service Portal">bab6dea3db20320099f93691f0b8f590</application>
+<application_name>Knowledge Management - Service Portal</application_name>
+<application_scope>sn_km_portal</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>954d2a5a37d0f30002c87e5004990e28</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-30 14:01:40</sys_created_on>
+<sys_id>ba5baff23705730002c87e5004990eb9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-30 14:01:40</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Knowledge Management - Service Portal">bab6dea3db20320099f93691f0b8f590</application>
+<category>customer</category>
+<comments/>
+<name>sp_page_e1c919e4dbd3220099f93691f0b8f535</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category/><css>section.page{
+  padding-top: 0;
+}main.body {
+  padding-top: 0;
+}
+.kb-home-explorer-continer{
+ background-color:#ffffff;
+  margin-bottom:20px;
+}</css><draft>false</draft><dynamic_title_structure/><id>kb_home</id><internal>false</internal><public>true</public><roles/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-11-21 19:05:06</sys_created_on><sys_id>e1c919e4dbd3220099f93691f0b8f535</sys_id><sys_mod_count>9</sys_mod_count><sys_name>kb_home</sys_name><sys_package display_value="Knowledge Management - Service Portal" source="sn_km_portal">bab6dea3db20320099f93691f0b8f590</sys_package><sys_policy/><sys_scope display_value="Knowledge Management - Service Portal">bab6dea3db20320099f93691f0b8f590</sys_scope><sys_update_name>sp_page_e1c919e4dbd3220099f93691f0b8f535</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-03-22 13:26:21</sys_updated_on><title>Knowledge Home</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=e1c919e4dbd3220099f93691f0b8f535"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>e1c919e4dbd3220099f93691f0b8f535</documentkey><fieldname>title</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:16:39</sys_created_on><sys_id>d6b036bb3740770002c87e5004990e5f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:16:39</sys_updated_on><tablename>sp_page</tablename><value>Página Inicial da Base de Conhecimento</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>790100900</payload_hash>
+<remote_update_set display_value="Default">ba5baff23705730002c87e5004990eb9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-30 14:01:40</sys_created_on>
+<sys_id>365baff23705730002c87e5004990eba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169a594ba4b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-30 14:01:40</sys_updated_on>
+<table/>
+<target_name>kb_home</target_name>
+<type>Page</type>
+<update_domain>global</update_domain>
+<update_guid>954d2a5a18d0f30042a7c6ba94b0fe29</update_guid>
+<update_guid_history>954d2a5a18d0f30042a7c6ba94b0fe29:790100900,194d2a5ad2d0f30087a47bd0d98fa926:917432393</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Knowledge Management - Service Portal">bab6dea3db20320099f93691f0b8f590</application>
+<category>customer</category>
+<comments/>
+<name>sp_page_a60dcc050be432004ce28ffe15673a54</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category/><css/><draft>false</draft><dynamic_title_structure>%kb_name - %short_descr</dynamic_title_structure><id>kb_article_view</id><internal>false</internal><public>true</public><roles/><short_description>Knowledge Article View Page</short_description><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-24 06:04:59</sys_created_on><sys_id>a60dcc050be432004ce28ffe15673a54</sys_id><sys_mod_count>3</sys_mod_count><sys_name>kb_article_view</sys_name><sys_package display_value="Knowledge Management - Service Portal" source="sn_km_portal">bab6dea3db20320099f93691f0b8f590</sys_package><sys_policy/><sys_scope display_value="Knowledge Management - Service Portal">bab6dea3db20320099f93691f0b8f590</sys_scope><sys_update_name>sp_page_a60dcc050be432004ce28ffe15673a54</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-03-22 13:27:33</sys_updated_on><title>Knowledge Article View</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=a60dcc050be432004ce28ffe15673a54"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>a60dcc050be432004ce28ffe15673a54</documentkey><fieldname>dynamic_title_structure</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:17:26</sys_created_on><sys_id>b1e0367f3740770002c87e5004990ea9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:17:26</sys_updated_on><tablename>sp_page</tablename><value>%kb_name - %short_descr</value></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>a60dcc050be432004ce28ffe15673a54</documentkey><fieldname>short_description</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:16:12</sys_created_on><sys_id>bb90367b3740770002c87e5004990ed2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:16:12</sys_updated_on><tablename>sp_page</tablename><value>Página de Exibição de Artigo de Conhecimento</value></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>a60dcc050be432004ce28ffe15673a54</documentkey><fieldname>title</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:16:26</sys_created_on><sys_id>dfa03e7b3740770002c87e5004990e9d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:16:26</sys_updated_on><tablename>sp_page</tablename><value>Exibição de artigo da Base de Conhecimento</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>1279682654</payload_hash>
+<remote_update_set display_value="Default">ba5baff23705730002c87e5004990eb9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-30 14:01:40</sys_created_on>
+<sys_id>725baff23705730002c87e5004990eba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169a595d2ac0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-30 14:01:40</sys_updated_on>
+<table/>
+<target_name>kb_article_view</target_name>
+<type>Page</type>
+<update_domain>global</update_domain>
+<update_guid>f28d6a5a89d0f3006d874a5f6b6dcf62</update_guid>
+<update_guid_history>f28d6a5a89d0f3006d874a5f6b6dcf62:1279682654,f68d6a5ad2d0f300b49f14718d168c5f:2019299883</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Knowledge Management - Service Portal">bab6dea3db20320099f93691f0b8f590</application>
+<category>customer</category>
+<comments/>
+<name>sp_page_79e23a7ddbd6220099f93691f0b8f53c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category/><css>section.page{
+  padding-top: 0;
+}main.body {
+  padding-top: 1rem;
+}
+input[type=checkbox]{
+ height:inherit;
+ }
+.noPadding {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}</css><draft>false</draft><dynamic_title_structure/><id>kb_search</id><internal>false</internal><public>true</public><roles/><short_description>Knowledge Search</short_description><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-10-07 05:44:32</sys_created_on><sys_id>79e23a7ddbd6220099f93691f0b8f53c</sys_id><sys_mod_count>7</sys_mod_count><sys_name>kb_search</sys_name><sys_package display_value="Knowledge Management - Service Portal" source="sn_km_portal">bab6dea3db20320099f93691f0b8f590</sys_package><sys_policy/><sys_scope display_value="Knowledge Management - Service Portal">bab6dea3db20320099f93691f0b8f590</sys_scope><sys_update_name>sp_page_79e23a7ddbd6220099f93691f0b8f53c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-03-22 13:27:57</sys_updated_on><title>Knowledge Search</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=79e23a7ddbd6220099f93691f0b8f53c"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>79e23a7ddbd6220099f93691f0b8f53c</documentkey><fieldname>short_description</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:16:49</sys_created_on><sys_id>7cc0babb3740770002c87e5004990e1a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:16:49</sys_updated_on><tablename>sp_page</tablename><value>Pesquisa de Base de Conhecimento</value></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>79e23a7ddbd6220099f93691f0b8f53c</documentkey><fieldname>title</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:16:40</sys_created_on><sys_id>fab076bb3740770002c87e5004990e20</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:16:40</sys_updated_on><tablename>sp_page</tablename><value>Pesquisa de Base de Conhecimento</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>150285965</payload_hash>
+<remote_update_set display_value="Default">ba5baff23705730002c87e5004990eb9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-30 14:01:40</sys_created_on>
+<sys_id>be5baff23705730002c87e5004990eb9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169a59630c90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-30 14:01:40</sys_updated_on>
+<table/>
+<target_name>kb_search</target_name>
+<type>Page</type>
+<update_domain>global</update_domain>
+<update_guid>b8adae5abcd0f300627be75263d1b783</update_guid>
+<update_guid_history>b8adae5abcd0f300627be75263d1b783:150285965,f8adae5a5fd0f300edd755a38fb06581:-1914298009</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-04-30 14:01:12">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Policy and Compliance">4a3281d053030200d23c9c25911c086f</application>
+<application_name>Policy and Compliance</application_name>
+<application_scope>sn_compliance</application_scope>
+<application_version>6.0.7</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>e4d7cf7b37c0770002c87e5004990e5c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-30 14:01:11</sys_created_on>
+<sys_id>373b6bf23705730002c87e5004990ef7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-30 14:01:11</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Policy and Compliance">4a3281d053030200d23c9c25911c086f</application>
+<category>customer</category>
+<comments/>
+<name>sc_category_96c4a786e7200300dd926217c2f6a97c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>false</active><description>Catalog for Governance Risk and Compliance</description><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>true</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><show_in_cms>false</show_in_cms><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-08-14 20:34:45</sys_created_on><sys_id>96c4a786e7200300dd926217c2f6a97c</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Governance Risk and Compliance</sys_name><sys_package display_value="Policy and Compliance" source="sn_compliance">4a3281d053030200d23c9c25911c086f</sys_package><sys_policy/><sys_scope display_value="Policy and Compliance">4a3281d053030200d23c9c25911c086f</sys_scope><sys_update_name>sc_category_96c4a786e7200300dd926217c2f6a97c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-03-14 20:57:33</sys_updated_on><title>Governance Risk and Compliance</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=96c4a786e7200300dd926217c2f6a97c"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>96c4a786e7200300dd926217c2f6a97c</documentkey><fieldname>description</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:16:56</sys_created_on><sys_id>62c0bebb3740770002c87e5004990e21</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:16:56</sys_updated_on><tablename>sc_category</tablename><value>Catálogo para governança de risco e conformidade</value></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>96c4a786e7200300dd926217c2f6a97c</documentkey><fieldname>title</fieldname><language>pb</language><sys_created_by>system</sys_created_by><sys_created_on>2019-03-14 19:17:02</sys_created_on><sys_id>40d072fb3740770002c87e5004990ea3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-03-14 19:17:02</sys_updated_on><tablename>sc_category</tablename><value>Governança, risco e conformidade</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>861292926</payload_hash>
+<remote_update_set display_value="Default">373b6bf23705730002c87e5004990ef7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-30 14:01:11</sys_created_on>
+<sys_id>3b3b6bf23705730002c87e5004990ef7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1697dfef2b60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-30 14:01:11</sys_updated_on>
+<table/>
+<target_name>Governance Risk and Compliance</target_name>
+<type>Category</type>
+<update_domain>global</update_domain>
+<update_guid>e4d7cf7b6ec0770064c53a70760e105d</update_guid>
+<update_guid_history>e4d7cf7b6ec0770064c53a70760e105d:861292926,2cd7cf7b01c07700c4f60bb3f36f7b59:-1577449322</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
